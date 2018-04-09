@@ -1,13 +1,13 @@
 {
   "name": "crypto-aes-core",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "aes 加密",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["crypto", "aes", "websocket"],
+  "author": "ppya0812@163.com",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^3.1.9-1"
