@@ -32,12 +32,12 @@
 ```
 npm install crypto-aes-core
 
-import {encrypt, decrypt} from 'crypto-aes-core'
+import CryptoAes from 'crypto-aes-core'
 
 <!-- 加密 -->
-encrypt(encryptedData, AESKEY)]
+CryptoAes.encrypt(encryptedData, AESKEY)]
 
 <!-- 解密 -->
-decrypt(decryptedData, AESKEY)]
+CryptoAes.decrypt(decryptedData, AESKEY)]
 
 ```
